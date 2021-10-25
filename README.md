@@ -1,6 +1,14 @@
 # AngularTodoApp
 
+RUN IN PROJECT FOLDER.....
+NPM INSTALL   TO ADD NODE MODULES 
+THEN
+NG UPDATE    TO UPDATE TO LATEST ANGULAR VERSION
+THEN
+NPM UPDATE    TO UPDATE REST OF PROJECT FILES TO LATEST ANGULAR VERSION 
 
+THEN YOU CAN RUN IT LOCALLY BY 
+NG SERVE --OPEN
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
